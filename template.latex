@@ -1,0 +1,100 @@
+\documentclass[11pt]{extarticle}
+\usepackage[margin=25mm,footskip=0.25in]{geometry}
+\renewcommand{\baselinestretch}{1.2}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{afterpage}
+\usepackage{graphicx,grffile}
+
+\pagestyle{empty}
+
+\definecolor{blue}{HTML}{0000AD}
+\definecolor{red}{HTML}{F3242C}
+
+\arrayrulecolor{white}
+
+\fontspec[Path = fonts/,
+    UprightFont = *-Regular,
+    BoldFont = *-Semibold,
+    ItalicFont = *-Italic
+ ]{OpenSans}
+
+\setmainfont{OpenSans}
+
+\newfontfamily\sectionfont[Path=fonts/]{Quicksand-Medium.ttf}
+
+\titleformat{\section}
+  {\color{blue}\sectionfont\Huge}
+  {\thesection}{1em}{}
+  [\vskip-0.5em\color{red}\vskip-10pt{\makebox[\linewidth][l]{\rule{40pt}{3pt}}}\vskip-0.5em]
+
+\titleformat{\subsection}
+  {\sectionfont\Large}
+  {\thesection}{1em}{}
+  [\vskip-0.5em\color{red}\vskip-10pt{\makebox[\linewidth][l]{\rule{20pt}{1pt}}}\vskip-0.5em]
+
+\titleformat{\subsubsection}
+  {\sectionfont\large}
+  {\thesection}{1em}{}
+  [\vskip-0.5em]
+
+\setcounter{secnumdepth}{0}
+
+$if(title)$
+\title{$title$ $if(thanks)$\thanks{$thanks$}$endif$}
+$endif$
+$if(subtitle)$
+\providecommand{\subtitle}[1]{}
+\subtitle{$subtitle$}
+$endif$
+$if(author)$
+\author{$for(author)$ $author$ $sep$ \and $endfor$}
+$endif$
+$if(institute)$
+\providecommand{\institute}[1]{}
+\institute{$for(institute)$ $institute$ $sep$ \and $endfor$}
+$endif$
+\date{$date$}
+
+\begin{document}
+\pagecolor{blue}\afterpage{\nopagecolor}
+
+
+\begin{figure}
+\vspace{8em}
+\centering
+\includegraphics{face.png}
+\vspace{4em}
+\end{figure}
+
+\begin{center}
+\sectionfont\color{white}{\Huge{$title$}}
+\end{center}
+
+\vspace{-1.5em}
+
+\color{red}{\makebox[\linewidth][c]{\rule{40pt}{3pt}}}
+
+\vspace{-1em}
+
+\color{white}
+
+\begin{center}
+\begin{minipage}{0.6\textwidth}
+\centering
+$subtitle$
+\end{minipage}
+\end{center}
+\color{black}
+
+\newpage
+
+$body$
+\end{document}
