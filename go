@@ -14,10 +14,10 @@ function task_build {
 }
 
 function task_watch {
-  task_build
+  task_build || true
   while inotifywait resume.md template.latex;
   do
-    task_build
+    task_build || true
   done
 }
 
