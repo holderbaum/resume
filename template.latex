@@ -12,8 +12,20 @@
 \usepackage{colortbl}
 \usepackage{afterpage}
 \usepackage{graphicx,grffile}
+\usepackage{fancyhdr}
 
-\pagestyle{empty}
+\pagestyle{fancy}
+\fancyfoot{}
+\fancyhead{}
+\fancyhead[L]{\footnotesize{Jakob Holderbaum}}
+\fancyhead[R]{\footnotesize{%
+  jakob@holderbaum.io%
+  \hspace{0.5em}\textbullet\hspace{0.5em}%
+  +49 176 637 297 71%
+  \hspace{0.5em}\textbullet\hspace{0.5em}%
+  https://holderbaum.io/%
+}}
+\renewcommand{\headrulewidth}{0.3pt}
 
 \definecolor{blue}{HTML}{0000AD}
 \definecolor{red}{HTML}{F3242C}
@@ -65,13 +77,14 @@ $endif$
 
 \begin{document}
 \pagecolor{blue}\afterpage{\nopagecolor}
+\thispagestyle{empty}
 
 
 \begin{figure}
-\vspace{8em}
+\vspace{7em}
 \centering
 \includegraphics{face.png}
-\vspace{4em}
+\vspace{2em}
 \end{figure}
 
 \begin{center}
