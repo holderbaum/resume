@@ -4,12 +4,12 @@ subtitle: I am a Freelance Consultant and Software Developer, who is eager to he
 
 ---
 
-# Résumé: Jakob Holderbaum
+# Profile of Jakob Holderbaum
 
-I am a Freelance Consultant and Software Developer,
-who is eager to help you and your team
-to build successful products.
-You can book me for software and hardware development and consulting, user centered product design, agile transformation and as a workshop facilitator.
+I am a Freelance Consultant and Software Developer, who is eager to help you
+and your team to build successful products.  You can book me for software and
+hardware development and consulting, user centered product design, agile
+transformation and as a workshop facilitator.
 
 ## I am an Agile Enthusiast.
 
@@ -21,10 +21,10 @@ developers, designers, business analysts and product owners by **pairing** and
 ## I am a Generalist.
 
 Throughout the years I have faced challenges of product development in a
-multitude of domains. With [neopoly][neopoly] I've developed **large scale
-mobile browser games** entertaining millions of users. In addition to this I
-worked on a wide spectrum of industry applications, from **security critical
-IoT platforms** to **safety critical bootloaders for microcontrollers**.
+multitude of domains. I've developed **large scale mobile browser games**
+entertaining millions of users. In addition to this I worked on a wide spectrum
+of industry applications, from **security critical IoT platforms** to **safety
+critical bootloaders for microcontrollers**.
 
 ## I am a Pragmatist.
 
@@ -90,9 +90,19 @@ Infrastructure as Code
 
 ## Project References
 
-### Fresh?? (2017/2018)
+### Consulting for a Smart Meter IoT Platform (2017/2018)
 
-### Building an IoT Platform (2016/2017)
+I joined the company with an already existing platform that connects Smart
+Meters and provides value added services for the customers, like live data on
+mobile phone apps. Scope of the engagement was further development to help with
+scaling issues, user centered design and an intensified focus on platform
+security -- through co-delivery development and workshops on site.
+
+The team was mixed between ThoughtWorks Consultants and Full Time Employees.
+
+\vspace{1em}
+
+### Building an IoT Platform for Connected Machines (2016/2017)
 
 I designed and built an IoT Platform for connected machines. The project
 consisted of development and maintenance of the embedded platform in the
@@ -100,16 +110,16 @@ machine, building a scalable cloud infrastructure to maintain the connection to
 the vehicles and designing and delivering supportive software for end users.
 
 The embedded software is built fully Test Driven and based on FreeRTOS and C++.
-The cloud infrastructure is hosted on AWS, completely defned in code using
-Terraform and Ruby. One focus of the infrastructure development was the
-defnition in pure software combined with automated testing and continuous
-deployment of the infrastructure.
+The cloud infrastructure is hosted on AWS, completely defined in code using
+Terraform and fully tested using Ruby. One focus of the development was the
+definition in pure software combined with automated testing and continuous
+deployment for the infrastructure.
 
-The delivery itself was done with a mixed team of ThoughtWorkers and developers from 
-the client. This involved a lot of mentoring and coaching to shape the agile way of 
-working together towards an ambitious delivery goal.
+The delivery itself was done with a mixed team of ThoughtWorkers and developers
+from the client. This involved a lot of mentoring and coaching to shape the
+agile way of working together towards an ambitious delivery goal.
 
-
+\vspace{1em}
 
 ### Building an App with Cloud Backend (2016)
 
@@ -128,14 +138,37 @@ development and maintenance efort.
 
 Beside the technical delivery, the team also had an impact in shaping the clients workkow to help on the way towards a more agile approach to software delivery.
 
-### Automated Verification of Automotive Microcontroller Bootloader (2015)
+\vspace{1em}
+
+### Consulting for Automotive Microcontroller Bootloader Verification (2015)
+
+The client I joined was pushing a new multicore automotive microcontroller to
+market. A required part of the release was an automated verification of the
+bootloader for ISO Functional Safety conformity. To proof correct behaviour in
+the required environments I enabled the client to build an extensive unit test
+suite in ANSI C (MISRA compatible).
+
+\vspace{1em}
 
 ### Building a Low Energy Microcontroller Bootloader (2015)
 
-LULZ!
+I joined this project from the beginning as a Consultant and Software Developer. The client wanted to build a new generation of Low Energy Microcontroller for Power Applications. To enable a satisfying user experience for engineers working with the chip, a versatile but extremely small and fast bootloader had to be development.
+
+I focused on modern methodologies like Test Driven Development, Incremental
+Design and Continuous Integration to build, test and release a tailored
+Bootloader on Chip ROM with a specific aim towards zero defects.
+
+\vspace{1em}
 
 ### Fantasy Football Manager (2013/2014)
 
-Twelve Gigatrillion users!!!
+As a Lead Developer I was part of a Team of Software Developers to build a new
+Fantasy Football Manager Platform in Ruby and Java. The development started
+from a green field with the aim to deliver a fully functional and working
+Fantasy Football game for millions of active users in about one year.
 
-[neopoly]: https://neopoly.com/
+I helped to shape the product in close collaboration with the Product Owners
+and Customers, while training new developers and leading the existing team
+towards success. We used state of the art methodologies like Test Driven
+Development and Continuous Integration to scale the complexity of the platform
+while continuously delivering value.
