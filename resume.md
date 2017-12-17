@@ -1,6 +1,10 @@
 ---
 title: Hello, I am Jakob.
 subtitle: I am a Freelance Consultant and Software Developer, who is eager to help you and your team to build successful products!
+name: Jakob Holderbaum
+email: jakob@holderbaum.io
+phone: +49 176 637 297 71
+web: https://holderbaum.io/
 
 ---
 

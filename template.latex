@@ -17,13 +17,13 @@
 \pagestyle{fancy}
 \fancyfoot{}
 \fancyhead{}
-\fancyhead[L]{\footnotesize{Jakob Holderbaum}}
+\fancyhead[L]{\footnotesize{$name$}}
 \fancyhead[R]{\footnotesize{%
-  jakob@holderbaum.io%
+  $email$
   \hspace{0.5em}\textbullet\hspace{0.5em}%
-  +49 176 637 297 71%
+  $phone$
   \hspace{0.5em}\textbullet\hspace{0.5em}%
-  https://holderbaum.io/%
+  $web$
 }}
 \renewcommand{\headrulewidth}{0.3pt}
 
