@@ -238,4 +238,4 @@ Web: https://holderbaum.io/
 ### Education:
 
 2012 -- 2014: M.Sc. Computer Engineering (dt.: Technische Informatik), FH Dortmund  
-2009 -- 2012: B.Sc. Computer Engineering (dt.: Technische Informati, FH Dortmund  
+2009 -- 2012: B.Sc. Computer Engineering (dt.: Technische Informatik), FH Dortmund  
