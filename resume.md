@@ -95,7 +95,6 @@ Infrastructure as Code
 ## Project References
 
 \begin{minipage}[t]{0.3\textwidth}
-\flushleft
 \begin{figure}[H]
 \includegraphics[height=20pt]{references/thoughtworks.png}
 \end{figure}
@@ -113,7 +112,6 @@ Infrastructure as Code
 \end{minipage}
 
 \begin{minipage}[t]{0.3\textwidth}
-\flushleft
 \begin{figure}[H]
 \includegraphics[height=20pt]{references/smart-mechatronics.png}
 \end{figure}
@@ -125,9 +123,8 @@ Infrastructure as Code
 \end{figure}
 \end{minipage}
 \begin{minipage}[c]{0.3\textwidth}
-\flushright
 \vspace{5em}
-And many more ...
+\hfill And many more ...
 \end{minipage}
 
 \vspace{3em}
