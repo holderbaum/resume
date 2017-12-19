@@ -3,7 +3,13 @@
 set -eu
 
 function version {
-  git reflog show -1 |cut -d' ' -f1
+  local tag=$(git describe --exact-match --tags HEAD 2>/dev/null || true)
+  if [[ -n "$tag" ]];
+  then
+    echo "$tag"
+  else
+    git reflog show -1 |cut -d' ' -f1
+  fi
 }
 
 function task_build {
