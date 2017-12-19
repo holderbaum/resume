@@ -94,6 +94,44 @@ Infrastructure as Code
 
 ## Project References
 
+\begin{minipage}[t]{0.3\textwidth}
+\flushleft
+\begin{figure}[H]
+\includegraphics[height=20pt]{references/thoughtworks.png}
+\end{figure}
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
+\begin{figure}[H]
+\centering
+\includegraphics[height=20pt]{references/metro.png}
+\end{figure}
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
+\begin{figure}[H]
+\includegraphics[height=20pt]{references/jungheinrich.png}
+\end{figure}
+\end{minipage}
+
+\begin{minipage}[t]{0.3\textwidth}
+\flushleft
+\begin{figure}[H]
+\includegraphics[height=20pt]{references/smart-mechatronics.png}
+\end{figure}
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
+\begin{figure}[H]
+\centering
+\includegraphics[height=20pt]{references/neopoly.png}
+\end{figure}
+\end{minipage}
+\begin{minipage}[c]{0.3\textwidth}
+\flushright
+\vspace{5em}
+And many more ...
+\end{minipage}
+
+\vspace{3em}
+
 ### Consulting for a Smart Meter IoT Platform (2017/2018)
 
 I joined the company with an already existing platform that connects Smart
@@ -176,3 +214,31 @@ and Customers, while training new developers and leading the existing team
 towards success. We used state of the art methodologies like Test Driven
 Development and Continuous Integration to scale the complexity of the platform
 while continuously delivering value.
+
+\newpage
+
+## Personal Details
+
+### Address:
+
+Holderbaum Consulting  
+Adolphstr. 18  
+50679 Köln
+
+### Contact Details:
+
+Phone: +49 176 637 297 71  
+Mail: jakob@holderbaum.io  
+Web: https://holderbaum.io/
+
+### Former Employers:
+
+2015 -- 2018: ThoughtWorks Deutschland Gmbh, Senior Consultant  
+2014 -- 2015: Smart Mechatronics GmbH, Consulting Engineer  
+2012 -- 2014: Neopoly GmbH, Lead Developer  
+2010 -- 2012: Neopoly GmbH, Software Developer
+
+### Education:
+
+2012 -- 2014: M.Sc. Computer Engineering (dt.: Technische Informatik), FH Dortmund  
+2009 -- 2012: B.Sc. Computer Engineering (dt.: Technische Informati, FH Dortmund  

@@ -11,7 +11,7 @@
 \usepackage{booktabs}
 \usepackage{colortbl}
 \usepackage{afterpage}
-\usepackage{graphicx,grffile}
+\usepackage{float,graphicx,grffile}
 \usepackage{fancyhdr}
 
 \pagestyle{fancy}
