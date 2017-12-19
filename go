@@ -2,6 +2,10 @@
 
 set -eu
 
+function version {
+  git reflog show -1 |cut -d' ' -f1
+}
+
 function task_build {
   echo "Building resume.pdf"
   pandoc \
@@ -9,6 +13,8 @@ function task_build {
     --template=template.latex \
     -f markdown \
     -o resume.pdf \
+    --metadata=build_date:$(date +%Y-%m-%d) \
+    --metadata=version:$(version) \
     resume.md
   echo "done"
 }

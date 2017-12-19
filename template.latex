@@ -1,5 +1,5 @@
-\documentclass[11pt]{extarticle}
-\usepackage[margin=25mm,footskip=0.25in]{geometry}
+\documentclass[11pt,hidelinks]{extarticle}
+\usepackage[margin=25mm,footskip=15mm]{geometry}
 \renewcommand{\baselinestretch}{1.2}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}
@@ -13,19 +13,14 @@
 \usepackage{afterpage}
 \usepackage{float,graphicx,grffile}
 \usepackage{fancyhdr}
+\usepackage{lastpage}
 
 \pagestyle{fancy}
 \fancyfoot{}
+\fancyfoot[L]{\footnotesize{$build_date$ / $version$}}
+\fancyfoot[R]{\footnotesize{\thepage~of \pageref{LastPage}}}
 \fancyhead{}
-\fancyhead[L]{\footnotesize{$name$}}
-\fancyhead[R]{\footnotesize{%
-  $email$
-  \hspace{0.5em}\textbullet\hspace{0.5em}%
-  $phone$
-  \hspace{0.5em}\textbullet\hspace{0.5em}%
-  $web$
-}}
-\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\headrulewidth}{0pt}
 
 \definecolor{blue}{HTML}{0000AD}
 \definecolor{red}{HTML}{F3242C}
