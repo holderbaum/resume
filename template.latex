@@ -27,13 +27,11 @@
 
 \arrayrulecolor{white}
 
-\fontspec[Path = fonts/,
+\setmainfont[Path = fonts/,
     UprightFont = *-Regular,
     BoldFont = *-Semibold,
     ItalicFont = *-Italic
  ]{OpenSans}
-
-\setmainfont{OpenSans}
 
 \newfontfamily\sectionfont[Path=fonts/]{Quicksand-Medium.ttf}
 
