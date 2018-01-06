@@ -16,12 +16,12 @@ function version {
 }
 
 function task_build {
-  echo "Building resume.pdf"
+  echo "Building resume-jakob-holderbaum.pdf"
   pandoc \
     --pdf-engine=lualatex \
     --template=template.latex \
     -f markdown \
-    -o resume.pdf \
+    -o resume-jakob-holderbaum.pdf \
     --metadata=build_date:$(date +%Y-%m-%d) \
     --metadata=version:$(version) \
     resume.md

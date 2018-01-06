@@ -8,7 +8,7 @@ deploy:
   provider: releases
   api_key:
     secure: Za7Vqhf1ntIkd2blvu5036GB1K/4VMhHmgO+bqf7Bojqjg0DbLzOM91LU3N+a+qSzVfjwtjYUkxb88kHahsbZ0pMYZDXIz0KNDFGFN+Xoxt3MLDA9zETAe0UElJ52qEhM8tYo1DEp+v6MaZvOdZv2IvdgDIJu2lvDAogHO5pTrcZ8wUPxgxaILUr+ISIEJpW5CgEvV5I6rA/T+QCkNlrULN7X+c4/rH5m8ZIjHjIyIvFMUWcL7ukylWFBs26GVCPe/HVoTfGftb2Znzft6VsnpxLBHSQnEJPHh2rVRur/dvtOb6Mue0lMiV9T1tBh6o8Q6t0zWu2QaLMDo8yzNKlTQX64Q5xiOHgxCRtaypVq81WhtLa75LtvoSPA1FKB006XzIoml9/VGqNEqwtzhkk0rkhVCtbcVsmADpmrC1dkeNmdX7XKVRoI38zn5nnlOKZpoGTvQunLYPt7Z87Kx9IqTGPVVJluvEdzU8BVaIwmX0rvzGn1obtwAG7mJfPD0wEi14NPKzeeQBtbC7s+QQGsPcW5uSVN7+P7ebPutclX4Cw4lkGUlgpujJdVqdVK0xMP4x5v+RzQqxGnzgyVz+Pv8CHm6YFEOaC/l74vCgTcQWp0DkhXOBaTNbygHx5D3iAUPqZ3Yu/SNa/WbPdAhAuoSF79XC5LnPVXT/ZXuIrol4=
-  file: resume.pdf
+  file: resume-jakob-holderbaum.pdf
   skip_cleanup: true
   on:
     repo: holderbaum/resume
