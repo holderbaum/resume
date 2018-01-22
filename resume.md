@@ -10,10 +10,7 @@ web: https://holderbaum.io/
 
 # Profile of Jakob Holderbaum
 
-I am a Freelance Consultant and Software Developer, who is eager to help you
-and your team to build successful products.  You can book me for software and
-hardware development and consulting, user centered product design, agile
-transformation and as a workshop facilitator.
+As a Freelance Consultant and Developer, I help customers on site to transform towards an agile approach to Software / Hardware Development. By working together with the existing product team, I can focus on building capabilities in the team while working together on delivering value continuously.
 
 ## I am an Agile Enthusiast.
 
@@ -127,17 +124,17 @@ Infrastructure as Code
 \hfill And many more ...
 \end{minipage}
 
-\vspace{3em}
+\vspace{2em}
 
 ### Consulting for a Smart Meter IoT Platform (2017/2018)
 
-I joined the company with an already existing platform that connects Smart
-Meters and provides value added services for the customers, like live data on
-mobile phone apps. Scope of the engagement was further development to help with
+I joined a company with an already existing platform that connects Smart Meters
+and provides value added services for the customers, like live data on mobile
+phone apps. Scope of the engagement was further development to help with
 scaling issues, user centered design and an intensified focus on platform
-security -- through co-delivery development and workshops on site.
+security -- through co-delivery development and workshops on site.  The team
+was mixed between ThoughtWorks Consultants and full time employees.
 
-The team was mixed between ThoughtWorks Consultants and Full Time Employees.
 
 \vspace{1em}
 
@@ -145,8 +142,9 @@ The team was mixed between ThoughtWorks Consultants and Full Time Employees.
 
 I designed and built an IoT Platform for connected machines. The project
 consisted of development and maintenance of the embedded platform in the
-machine, building a scalable cloud infrastructure to maintain the connection to
-the vehicles and designing and delivering supportive software for end users.
+connected machines, building a scalable cloud infrastructure to maintain the
+connection to the vehicles and designing and delivering supportive software for
+end users.
 
 The embedded software is built fully Test Driven and based on FreeRTOS and C++.
 The cloud infrastructure is hosted on AWS, completely defined in code using
@@ -155,8 +153,8 @@ definition in pure software combined with automated testing and continuous
 deployment for the infrastructure.
 
 The delivery itself was done with a mixed team of ThoughtWorkers and developers
-from the client. This involved a lot of mentoring and coaching to shape the
-agile way of working together towards an ambitious delivery goal.
+of the client. This involved a lot of mentoring and coaching to shape the agile
+way of working together towards an ambitious delivery goal.
 
 \vspace{1em}
 
