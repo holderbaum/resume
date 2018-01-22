@@ -135,6 +135,7 @@ scaling issues, user centered design and an intensified focus on platform
 security -- through co-delivery development and workshops on site.  The team
 was mixed between ThoughtWorks Consultants and full time employees.
 
+Tags: **DevOps, Infrastructure Security, Mobile Apps, Agile Methodologies, Coaching**
 
 \vspace{1em}
 
@@ -156,6 +157,8 @@ The delivery itself was done with a mixed team of ThoughtWorkers and developers
 of the client. This involved a lot of mentoring and coaching to shape the agile
 way of working together towards an ambitious delivery goal.
 
+Tags: **DevOps, Continuous Delivery, Infrastructure Security, Embedded Testing, Coaching**
+
 \vspace{1em}
 
 ### Building an App with Cloud Backend (2016)
@@ -175,6 +178,8 @@ development and maintenance efort.
 
 Beside the technical delivery, the team also had an impact in shaping the clients workkow to help on the way towards a more agile approach to software delivery.
 
+Tags: **DevOps, Mobile Apps, Agile Methodologies**
+
 \vspace{1em}
 
 ### Consulting for Automotive Microcontroller Bootloader Verification (2015)
@@ -185,6 +190,8 @@ bootloader for ISO Functional Safety conformity. To proof correct behaviour in
 the required environments I enabled the client to build an extensive unit test
 suite in ANSI C (MISRA compatible).
 
+Tags: **Coaching, Embedded Testing, Hardware Verification**
+
 \vspace{1em}
 
 ### Building a Low Energy Microcontroller Bootloader (2015)
@@ -194,6 +201,8 @@ I joined this project from the beginning as a Consultant and Software Developer.
 I focused on modern methodologies like Test Driven Development, Incremental
 Design and Continuous Integration to build, test and release a tailored
 Bootloader on Chip ROM with a specific aim towards zero defects.
+
+Tags: **Coaching, Embedded Testing, Hardware Verification**
 
 \vspace{1em}
 
@@ -209,6 +218,8 @@ and Customers, while training new developers and leading the existing team
 towards success. We used state of the art methodologies like Test Driven
 Development and Continuous Integration to scale the complexity of the platform
 while continuously delivering value.
+
+Tags: **Coaching, Automated Testing, DevOps**
 
 \newpage
 
