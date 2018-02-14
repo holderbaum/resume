@@ -30,8 +30,8 @@ critical bootloaders for microcontrollers**.
 ## I am a Pragmatist.
 
 I truly believe that picking the right tool for the job is much more valuable
-than becoming a master of a single trade. Working with many different clients
-and industries is enabling me to acquire a wide range of skills:
+than becoming a master of a single trade. Here is a a partial list of my
+skills:
 
 \vspace{\baselineskip}
 \begin{minipage}[t]{0.3\textwidth}
