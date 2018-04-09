@@ -1,6 +1,6 @@
 ---
 title: Hello, I am Jakob.
-subtitle: I am a Freelance Consultant and Software Developer, who is eager to help you and your team to build successful products!
+subtitle: I am a Freelance Consultant, Coach and Software Developer, who is eager to help you and your team to build successful products!
 name: Jakob Holderbaum
 email: jakob@holderbaum.io
 phone: +49 176 637 297 71
@@ -10,14 +10,18 @@ web: https://holderbaum.io/
 
 # Profile of Jakob Holderbaum
 
-As a Freelance Consultant and Developer, I help customers on site to transform towards an agile approach to Software / Hardware Development. By working together with the existing product team, I can focus on building capabilities in the team while working together on delivering value continuously.
+As a Freelance Consultant, Coach and Developer, I help customers on site to
+transform towards an agile approach to Software / Hardware Development. By
+working together with the existing product team, I can focus on building
+capabilities in the team while collaborating on delivering value continuously.
 
 ## I am an Agile Enthusiast.
 
 I spend my time **continuously delivering** software and hardware systems using
 **test-first methodologies**. Working in close collaboration with fellow
-developers, designers, business analysts and product owners by **pairing** and
-**on-site teamwork** is a necessity to successfully realize a product vision.
+developers, designers, business analysts and product owners through **pairing**
+and **on-site teamwork** is a necessity to successfully realize a product
+vision.
 
 ## I am a Generalist.
 
@@ -42,7 +46,8 @@ skills:
 Java (Spring Boot, Dropwizard),
 Ruby (Rails, Sinatra),
 Python,
-JavaScript (React, jQuery),
+JavaScript (WebComponents, React, jQuery),
+HTML / CSS,
 Lua,
 Embedded C,
 C++,
@@ -125,6 +130,19 @@ Infrastructure as Code
 \end{minipage}
 
 \vspace{2em}
+
+### Coaching / Consulting for building Connected Battery Chargers (2018)
+
+I joined a freshly formed client team with the sole focus of sustainably
+building capabilities around agile methodologies and technological knowledge.
+Together we developed an embedded software platform that is continuously built
+and tested on the CI server running on AWS. All coaching was done through
+pairing with different team members to deliver the expected quality on time.
+
+Tags: **Coaching, Embedded Software, Continuous Integration, DevOps**
+
+\vspace{1em}
+
 
 ### Consulting for a Smart Meter IoT Platform (2017/2018)
 
