@@ -251,7 +251,7 @@ Adolphstr. 18
 
 ### Contact Details:
 
-Phone: +49 (0) 151 / 708 161 45
+Phone: +49 (0) 151 / 708 161 45  
 Mail: jakob@holderbaum.io  
 Web: https://holderbaum.io/
 
