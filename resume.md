@@ -72,7 +72,7 @@ Wireguard,
 Docker,
 Vagrant,
 AWS,
-Azure
+Azure,
 Heroku,
 Digital Ocean,
 Vim,
