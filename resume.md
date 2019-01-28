@@ -46,12 +46,14 @@ skills:
 Java (Spring Boot, Dropwizard),
 Ruby (Rails, Sinatra),
 Python,
-JavaScript (WebComponents, React, Vue, Aurelia),
+JavaScript (Node, WebComponents, React, Vue, Aurelia),
 HTML / CSS,
+Go,
 Lua,
 Embedded C,
 C++,
-Go
+Verilog,
+VHDL
 
 \end{minipage}
 \hspace{0.03\textwidth}
@@ -67,6 +69,8 @@ Salt,
 Terraform,
 Consul,
 Vault,
+TLS,
+GnuPG,
 OpenVPN,
 Wireguard,
 Docker,
@@ -92,7 +96,8 @@ Pair Programming,
 Kanban,
 SCRUM,
 DevOps,
-Infrastructure as Code
+Infrastructure as Code,
+Designing for Security
 
 \end{minipage}
 
@@ -103,14 +108,14 @@ Infrastructure as Code
 As a Freelance Consultant, Coach and Software Developer I can help your team
 and your product to become better in delivering working and secure software:
 
-### Hands-On Consulting
+### Hands-On Consulting with a dynamic Focus
 
 Hands-On Consulting usually happens on-site. I join the team as a fellow
 developer and support them with delivering a working product. While working
 together, I can identify different issues and pain points that can be leveraged
 to improve various aspects of the process and the product being build. Through
 methodologies like **pair programming** and **leading by example** I support
-the team in establishing practices that will help them to grow even further.
+the team in establishing practices that will help them to grow even further. Here are my main areas of focus:
 
 * Agile Methodologies: Pair Programming, Kanban, SCRUM, Retros, Standups/Dailies, ...
 * Delivery Performance: CI/CD, Trunk Based Development and Test Automation
@@ -118,11 +123,13 @@ the team in establishing practices that will help them to grow even further.
 
 ### Security Consulting
 
-Most projects I have worked on so far were critical in regards of their security. I can help your teams in delivering safer software by focusing on security best practices throughout the entire product life cycle:
+Nearly all of the projects I have worked on so far were critical in regards of
+their security. I can help your teams in delivering safer software by focusing
+on security best practices throughout the entire product life cycle:
 
 * Avoiding basic mistakes while developing software (e.g. secret management, ...)
-* How to ensure running software is monitored from an intrusion perspective
-* Hardening server and cloud infrastructure below the developer stack
+* How to ensure running software is monitored
+* Hardening server and cloud infrastructure beyond just the developer stack
 
 ### Legacy System Refactoring
 
@@ -176,7 +183,7 @@ and continuing feature development.
 
 ### Coaching / Consulting for building Connected Heaters (2018/2019)
 
-I joined the existing platform team in order to rebuild existing infrastructure
+I joined the existing platform team in order to rebuild legacy infrastructure
 in Azure with a focus on Infrastructure as Code and Continuous Integration.
 While maintaining stacks like Elastic Search and Kafka I also worked closely
 with other delivery teams to bring best practices into play (e.g. Pairing,
