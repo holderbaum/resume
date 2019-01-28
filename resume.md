@@ -174,6 +174,18 @@ and continuing feature development.
 \vspace{2em}
 
 
+### Coaching / Consulting for building Connected Heaters (2018/2019)
+
+I joined the existing platform team in order to rebuild existing infrastructure
+in Azure with a focus on Infrastructure as Code and Continuous Integration.
+While maintaining stacks like Elastic Search and Kafka I also worked closely
+with other delivery teams to bring best practices into play (e.g. Pairing,
+Trunk Based Development, DevOps Mindset).
+
+Tags: **Coaching, DevOps, Security Advisory, Infrastructure as Code**
+
+\vspace{1em}
+
 ### Founding of the Think About! Conference in Cologne, Germany (2018)
 
 Together with two other people I bootrapped a startup (HRX Veranstaltungen
