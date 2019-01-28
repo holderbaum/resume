@@ -98,7 +98,45 @@ Infrastructure as Code
 
 \newpage
 
-## Project References
+## My Services
+
+As a Freelance Consultant, Coach and Software Developer I can help your team
+and your product to become better in delivering working and secure software:
+
+### Hands-On Consulting
+
+Hands-On Consulting usually happens on-site. I join the team as a fellow
+developer and support them with delivering a working product. While working
+together, I can identify different issues and pain points that can be leveraged
+to improve various aspects of the process and the product being build. Through
+methodologies like **pair programming** and **leading by example** I support
+the team in establishing practices that will help them to grow even further.
+
+* Agile Methodologies: Pair Programming, Kanban, SCRUM, Retros, Standups/Dailies, ...
+* Delivery Performance: CI/CD, Trunk Based Development and Test Automation
+* Architecture/Design Assessment: Let's see how we can even further improve existing systems by identifying pivotal pain points
+
+### Security Consulting
+
+Most projects I have worked on so far were critical in regards of their security. I can help your teams in delivering safer software by focusing on security best practices throughout the entire product life cycle:
+
+* Avoiding basic mistakes while developing software (e.g. secret management, ...)
+* How to ensure running software is monitored from an intrusion perspective
+* Hardening server and cloud infrastructure below the developer stack
+
+### Legacy System Refactoring
+
+Most companies I have worked with so far had their fair share of wildly grown
+and mostly untested legacy systems that where still an integral part of their
+infrastructure and products.
+
+I have a lot of experience in incrementally converting an existing untested
+legacy system into stable and maintainable software while staying in production
+and continuing feature development.
+
+\newpage
+
+## Project References (excerpt)
 
 \begin{minipage}[t]{0.3\textwidth}
 \begin{figure}[H]
