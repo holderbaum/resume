@@ -117,7 +117,7 @@ to improve various aspects of the process and the product being build. Through
 methodologies like **pair programming** and **leading by example** I support
 the team in establishing practices that will help them to grow even further. Here are my main areas of focus:
 
-* Agile Methodologies: Pair Programming, Kanban, SCRUM, Retros, Standups/Dailies, ...
+* Agile Methodologies: Pair Programming, Kanban, SCRUM, Retros, Stand-Up/Dailies, ...
 * Delivery Performance: CI/CD, Trunk Based Development and Test Automation
 * Architecture/Design Assessment: Let's see how we can even further improve existing systems by identifying pivotal pain points
 
@@ -195,7 +195,7 @@ Tags: **Coaching, DevOps, Security Advisory, Infrastructure as Code**
 
 ### Founding of the Think About! Conference in Cologne, Germany (2018)
 
-Together with two other people I bootrapped a startup (HRX Veranstaltungen
+Together with two other people I bootstrapped a startup (HRX Veranstaltungen
 GmbH) in early 2018 in order to carry out tech conferences in Cologne. Since
 this date we are pushing to make the first Think About! Conference
 ([https://think-about.io/](https://think-about/)) happen on May 2019 in
