@@ -11,9 +11,10 @@ web: https://holderbaum.io/
 # Profile of Jakob Holderbaum
 
 As a Freelance Consultant, Coach and Developer, I help customers on site to
-transform towards an agile approach to Software / Hardware Development. By
-working together with the existing product team, I can focus on building
-capabilities in the team while collaborating on delivering value continuously.
+transform towards an agile approach to building working and secure Software and
+Hardware. By working together with the existing product team, I can focus on
+building capabilities in the team while collaborating on delivering value
+continuously.
 
 ## I am an Agile Enthusiast.
 
@@ -59,6 +60,7 @@ Go
 
 \subsubsection{Technologies}
 
+git,
 Linux,
 Ansible,
 Salt,
