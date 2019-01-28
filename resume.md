@@ -133,6 +133,22 @@ Infrastructure as Code
 
 \vspace{2em}
 
+
+### Founding of the Think About! Conference in Cologne, Germany (2018)
+
+Together with two other people I bootrapped a startup (HRX Veranstaltungen
+GmbH) in early 2018 in order to carry out tech conferences in Cologne. Since
+this date we are pushing to make the first Think About! Conference
+([https://think-about.io/](https://think-about/)) happen on May 2019 in
+Cologne.
+
+\begin{figure}[H]
+\centering
+\includegraphics[height=180pt]{references/think-about.png}
+\end{figure}
+
+\vspace{1em}
+
 ### Coaching / Consulting for building Connected Battery Chargers (2018)
 
 I joined a freshly formed client team with the sole focus of sustainably
