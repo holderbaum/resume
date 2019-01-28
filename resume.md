@@ -20,8 +20,7 @@ capabilities in the team while collaborating on delivering value continuously.
 I spend my time **continuously delivering** software and hardware systems using
 **test-first methodologies**. Working in close collaboration with fellow
 developers, designers, business analysts and product owners through **pairing**
-and **on-site teamwork** is a necessity to successfully realize a product
-vision.
+and **on-site teamwork**.
 
 ## I am a Generalist.
 
