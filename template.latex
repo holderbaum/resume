@@ -68,6 +68,9 @@ $if(institute)$
 $endif$
 \date{$date$}
 
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 \begin{document}
 \pagecolor{blue}\afterpage{\nopagecolor}
 \thispagestyle{empty}
