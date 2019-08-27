@@ -10,18 +10,17 @@ web: https://holderbaum.io/
 
 # Profile of Jakob Holderbaum
 
-As a Freelance Consultant, Coach and Developer, I help customers on site to
-transform towards an agile approach to building working and secure Software and
-Hardware. By working together with the existing product team, I can focus on
-building capabilities in the team while collaborating on delivering value
-continuously.
+As a Freelance Consultant, Coach and Developer, I help customers to transform
+towards an agile approach to building Software and Hardware. By working
+together with the existing product team, I can focus on building capabilities
+in the team while collaborating on delivering value continuously.
 
 ## I am an Agile Enthusiast.
 
 I spend my time **continuously delivering** software and hardware systems using
-**test-first methodologies**. Working in close collaboration with fellow
-developers, designers, business analysts and product owners through **pairing**
-and **on-site teamwork**.
+**test-first methodologies**. I prefer working in close collaboration with
+fellow developers, designers, business analysts and product owners through
+**pairing** and **on-site teamwork**.
 
 ## I am a Generalist.
 
@@ -29,7 +28,7 @@ Throughout the years I have faced challenges of product development in a
 multitude of domains. I've developed **large scale mobile browser games**
 entertaining millions of users. In addition to this I worked on a wide spectrum
 of industry applications, from **security critical IoT platforms** to **safety
-critical bootloaders for microcontrollers**.
+critical microcontroller bootloaders**.
 
 ## I am a Pragmatist.
 
@@ -119,7 +118,7 @@ the team in establishing practices that will help them to grow even further. Her
 
 * Agile Methodologies: Pair Programming, Kanban, SCRUM, Retros, Stand-Up/Dailies, ...
 * Delivery Performance: CI/CD, Trunk Based Development and Test Automation
-* Architecture/Design Assessment: Let's see how we can even further improve existing systems by identifying pivotal pain points
+* Architecture/Design Assessment: Let's see how we can improve existing systems by identifying pivotal pain points
 
 ### Security Consulting
 
@@ -180,6 +179,32 @@ and continuing feature development.
 
 \vspace{2em}
 
+### Coaching a Team in Agile Practices (2019)
+
+I joined a small delivery team that build web applications and desktop
+applications for very different domains (e.g. Legal, POS Terminals, CRM
+Software, ...). I continuously paired with different members of the team to address a many different aspects of building high quality software. We focused a lot on TDD and CI/CD Pipelines. But also general aspects of software architecture and refactoring skills played a major role throughout the engagement.
+
+Tags: **Coaching, Security Advisory, Software Architecture, Testability**  
+Technologies: **PHP, Laravel, JavaScript, React, C# .NET, C++, Python, Ansible**
+
+\vspace{1em}
+
+### Coaching a Team in Kanban & Trunk Based Development (2019)
+
+I worked with a newly formed team on a partly legacy application. To increase
+their throughput and enhance their quality, I coached them as a temporary
+member of the team in topics like Kanban, Trunk Based Development, Test
+Automation and Refactoring.
+
+A (German) testimonial of one of the team's developers can be read here:  
+[https://www.cologne-intelligence.de/blog/detail/show/pairing-als-default-ein-experiment/](https://www.cologne-intelligence.de/blog/detail/show/pairing-als-default-ein-experiment/)
+
+Tags: **Coaching, Security Advisory, Software Architecture, Testability**  
+Technologies: **Java, Spring, JavaScript, React, Python, Ansible**
+
+\vspace{1em}
+
 
 ### Coaching / Consulting for building Connected Heaters (2018/2019)
 
@@ -189,17 +214,18 @@ While maintaining stacks like Elastic Search and Kafka I also worked closely
 with other delivery teams to bring best practices into play (e.g. Pairing,
 Trunk Based Development, DevOps Mindset).
 
-Tags: **Coaching, DevOps, Security Advisory, Infrastructure as Code**
+Tags: **Coaching, DevOps, Security Advisory, Infrastructure as Code**  
+Technologies: **Java, Python, Ruby, Ansible, Terraform, Kubernetes**
 
 \vspace{1em}
 
 ### Founding of the Think About! Conference in Cologne, Germany (2018)
 
-Together with two other people I bootstrapped a startup (HRX Veranstaltungen
-GmbH) in early 2018 in order to carry out tech conferences in Cologne. Since
-this date we are pushing to make the first Think About! Conference
-([https://think-about.io/](https://think-about/)) happen on May 2019 in
-Cologne.
+Early 2019 my wife and I bootstrapped a company (Holderbaum GmbH) in order to
+carry out tech conferences in Cologne. Since this date we pushed to make the
+first Think About! Conference ([https://think-about.io/](https://think-about/))
+happen on May 2019 in Cologne. It was a great success and we are looking
+forward to the next conference in 2020.
 
 \begin{figure}[H]
 \centering
@@ -207,6 +233,8 @@ Cologne.
 \end{figure}
 
 \vspace{1em}
+
+\newpage
 
 ### Coaching / Consulting for building Connected Battery Chargers (2018)
 
@@ -216,7 +244,8 @@ Together we developed an embedded software platform that is continuously built
 and tested on the CI server running on AWS. All coaching was done through
 pairing with different team members to deliver the expected quality on time.
 
-Tags: **Coaching, Embedded Software, Continuous Integration, DevOps**
+Tags: **Coaching, Embedded Software, Continuous Integration, DevOps**  
+Technologies: **C, C++, Python, Ruby, Go, Ansible, Terraform, AWS**
 
 \vspace{1em}
 
@@ -230,7 +259,8 @@ scaling issues, user centered design and an intensified focus on platform
 security -- through co-delivery development and workshops on site.  The team
 was mixed between ThoughtWorks Consultants and full time employees.
 
-Tags: **DevOps, Infrastructure Security, Mobile Apps, Agile Methodologies, Coaching**
+Tags: **DevOps, Infrastructure Security, Mobile Apps, Agile Methodologies, Coaching**  
+Technologies: **Java, Spring, JavaScript, React, Pivotal Cloud Foundry**
 
 \vspace{1em}
 
@@ -252,7 +282,8 @@ The delivery itself was done with a mixed team of ThoughtWorkers and developers
 of the client. This involved a lot of mentoring and coaching to shape the agile
 way of working together towards an ambitious delivery goal.
 
-Tags: **DevOps, Continuous Delivery, Infrastructure Security, Embedded Testing, Coaching**
+Tags: **DevOps, Continuous Delivery, Infrastructure Security, Embedded Testing, Coaching**  
+Technologies: **C, C++, Lua, Python, Ruby, Java, Dropwizard, Terraform, AWS**
 
 \vspace{1em}
 
@@ -273,7 +304,8 @@ development and maintenance efort.
 
 Beside the technical delivery, the team also had an impact in shaping the clients workkow to help on the way towards a more agile approach to software delivery.
 
-Tags: **DevOps, Mobile Apps, Agile Methodologies**
+Tags: **DevOps, Mobile Apps, Agile Methodologies**  
+Technologies: **Java, Spring, JavaScript, React, Kubernetes, Open Shift**
 
 \vspace{1em}
 
@@ -285,19 +317,27 @@ bootloader for ISO Functional Safety conformity. To proof correct behaviour in
 the required environments I enabled the client to build an extensive unit test
 suite in ANSI C (MISRA compatible).
 
-Tags: **Coaching, Embedded Testing, Hardware Verification**
+Tags: **Coaching, Embedded Testing, Hardware Verification**  
+Technologies: **C, Python, System Verilog**
 
 \vspace{1em}
 
+\newpage
+
 ### Building a Low Energy Microcontroller Bootloader (2015)
 
-I joined this project from the beginning as a Consultant and Software Developer. The client wanted to build a new generation of Low Energy Microcontroller for Power Applications. To enable a satisfying user experience for engineers working with the chip, a versatile but extremely small and fast bootloader had to be development.
+I joined this project from the beginning as a Consultant and Software
+Developer. The client wanted to build a new generation of Low Energy
+Microcontroller for Power Applications. To enable a satisfying user experience
+for engineers working with the chip, a versatile but extremely small and fast
+bootloader had to be development.
 
 I focused on modern methodologies like Test Driven Development, Incremental
 Design and Continuous Integration to build, test and release a tailored
 Bootloader on Chip ROM with a specific aim towards zero defects.
 
-Tags: **Coaching, Embedded Testing, Hardware Verification**
+Tags: **Coaching, Embedded Testing, Hardware Verification**  
+Technologies: **C, Python, System Verilog**
 
 \vspace{1em}
 
@@ -314,7 +354,8 @@ towards success. We used state of the art methodologies like Test Driven
 Development and Continuous Integration to scale the complexity of the platform
 while continuously delivering value.
 
-Tags: **Coaching, Automated Testing, DevOps**
+Tags: **Coaching, Automated Testing, DevOps**  
+Technologies: **Ruby, Ruby on Rails, JavaScript, Backbone, Java**
 
 \newpage
 
@@ -322,7 +363,7 @@ Tags: **Coaching, Automated Testing, DevOps**
 
 ### Address:
 
-Holderbaum Consulting  
+Holderbaum GmbH  
 Adolphstr. 18  
 50679 Köln
 
