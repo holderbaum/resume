@@ -1,5 +1,5 @@
 \documentclass[11pt,hidelinks]{extarticle}
-\usepackage[margin=25mm,footskip=15mm]{geometry}
+\usepackage[margin=20mm,footskip=10mm]{geometry}
 \renewcommand{\baselinestretch}{1.2}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}

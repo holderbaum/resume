@@ -10,25 +10,23 @@ web: https://holderbaum.io/
 
 # Profile of Jakob Holderbaum
 
-As a Freelance Consultant, Coach and Developer, I help customers to transform
+As a Freelance Consultant, Coach and Developer, I help clients transforming
 towards an agile approach to building Software and Hardware. By working
 together with the existing product team, I can focus on building capabilities
-in the team while collaborating on delivering value continuously.
+while collaborating on delivering value continuously.
 
 ## I am an Agile Enthusiast.
 
 I spend my time **continuously delivering** software and hardware systems using
 **test-first methodologies**. I prefer working in close collaboration with
 fellow developers, designers, business analysts and product owners through
-**pairing** and **on-site teamwork**.
+**pairing** and **remote or on-site teamwork**.
 
 ## I am a Generalist.
 
-Throughout the years I have faced challenges of product development in a
-multitude of domains. I've developed **large scale mobile browser games**
-entertaining millions of users. In addition to this I worked on a wide spectrum
-of industry applications, from **security critical IoT platforms** to **safety
-critical microcontroller bootloaders**.
+Throughout the years I solved product development challenges in a multitude of
+domains such as **large scale mobile browser games**, **security critical IoT
+platforms**, **safety critical microcontroller bootloaders** and many more.
 
 ## I am a Pragmatist.
 
@@ -43,9 +41,11 @@ skills:
 \subsubsection{Ecosystems}
 
 Java (Spring Boot, Dropwizard),
+C\# / .NET,
 Ruby (Rails, Sinatra),
 Python,
 JavaScript (Node, WebComponents, React, Vue, Aurelia),
+PHP (Laravael, Yii, Symfony),
 HTML / CSS,
 Go,
 Lua,
@@ -68,12 +68,22 @@ Salt,
 Terraform,
 Consul,
 Vault,
+Vagrant,
+Gitlab CI,
+Jenkins CI,
 TLS,
 GnuPG,
 OpenVPN,
 Wireguard,
+Mysql,
+MariaDB,
+Postgress,
+ELK,
+Grafana,
+Prometheus,
 Docker,
-Vagrant,
+Kubernetes,
+Nomad,
 AWS,
 Azure,
 Heroku,
@@ -105,11 +115,11 @@ Designing for Security
 ## My Services
 
 As a Freelance Consultant, Coach and Software Developer I can help your team
-and your product to become better in delivering working and secure software:
+and your product becoming better at delivering working and secure software:
 
 ### Hands-On Consulting with a dynamic Focus
 
-Hands-On Consulting usually happens on-site. I join the team as a fellow
+Hands-On Consulting can happen on-site or remotely. I join the team(s) as a fellow
 developer and support them with delivering a working product. While working
 together, I can identify different issues and pain points that can be leveraged
 to improve various aspects of the process and the product being build. Through
@@ -119,6 +129,7 @@ the team in establishing practices that will help them to grow even further. Her
 * Agile Methodologies: Pair Programming, Kanban, SCRUM, Retros, Stand-Up/Dailies, ...
 * Delivery Performance: CI/CD, Trunk Based Development and Test Automation
 * Architecture/Design Assessment: Let's see how we can improve existing systems by identifying pivotal pain points
+* Management Consulting: I often work with team leaders and C-level management to establish better processes throughout the company
 
 ### Security Consulting
 
@@ -132,17 +143,21 @@ on security best practices throughout the entire product life cycle:
 
 ### Legacy System Refactoring
 
-Most companies I have worked with so far had their fair share of wildly grown
-and mostly untested legacy systems that where still an integral part of their
-infrastructure and products.
+Most companies I have worked with so far had their fair share of historically
+grown and untested systems that where still an integral part of their revenue
+generation.
 
-I have a lot of experience in incrementally converting an existing untested
-legacy system into stable and maintainable software while staying in production
-and continuing feature development.
+I have a lot of experience in incrementally converting existing untested
+systems into stable and maintainable software while staying in production and
+continuing feature development. This can be part of a transformation into
+public cloud, private cloud or classic on-premise infrastructure.
 
 \newpage
 
 ## Project References (excerpt)
+
+The following pages contain descriptions of some of the projects I have been
+working at in the past ten years.
 
 \begin{minipage}[t]{0.3\textwidth}
 \begin{figure}[H]
@@ -179,11 +194,31 @@ and continuing feature development.
 
 \vspace{2em}
 
+### Establishing Agile Methodologies in a Company (2020)
+
+The company is building video streaming platforms with storage in the scale of
+several petabytes. I joined as an advisor to the founder and an coach and
+mentor tho the product team. Throughout the year I helped the entire company yo
+create an individual agile process based on Kanban and Scrum. We ware able to
+remove many obstacles and create transparency of the development and planning
+efforts.
+
+Additionally to this, I am working with the developers to establish test
+automation and CI/CD uwing gitlab as a foundation to refactor the existing
+monolithic applications into maintainable services.
+
+Tags: **Coaching, Advisory, Software Architecture, Agile Methods**  
+Technologies: **PHP, Yii, JavaScript, Redis, MySQL, Docker, Gitlab CI**
+
 ### Coaching a Team in Agile Practices (2019)
 
 I joined a small delivery team that build web applications and desktop
 applications for very different domains (e.g. Legal, POS Terminals, CRM
-Software, ...). I continuously paired with different members of the team to address a many different aspects of building high quality software. We focused a lot on TDD and CI/CD Pipelines. But also general aspects of software architecture and refactoring skills played a major role throughout the engagement.
+Software, ...). I continuously paired with different members of the team to
+address a many different aspects of building high quality software. We focused
+a lot on TDD and CI/CD Pipelines. But also general aspects of software
+architecture and refactoring skills played a major role throughout the
+engagement.
 
 Tags: **Coaching, Security Advisory, Software Architecture, Testability**  
 Technologies: **PHP, Laravel, JavaScript, React, C# .NET, C++, Python, Ansible**
@@ -364,8 +399,8 @@ Technologies: **Ruby, Ruby on Rails, JavaScript, Backbone, Java**
 ### Address:
 
 Holderbaum GmbH  
-Adolphstr. 18  
-50679 Köln
+Holbeinstr. 39  
+50226 Frechen
 
 ### Contact Details:
 
