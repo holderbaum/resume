@@ -1,6 +1,6 @@
 ---
 title: Hello, I am Jakob.
-subtitle: I am a Freelance Consultant, Coach and Software Developer, who is eager to help you and your team to build successful products!
+subtitle: I am a Freelance Consultant, Coach and Software Developer who is eager to help you and your team to build successful products!
 name: Jakob Holderbaum
 email: jakob@holderbaum.io
 phone: +49 176 637 297 71
@@ -138,7 +138,7 @@ their security. I can help your teams in delivering safer software by focusing
 on security best practices throughout the entire product life cycle:
 
 * Avoiding basic mistakes while developing software (e.g. secret management, ...)
-* How to ensure running software is monitored
+* Ensuring that running software is monitored
 * Hardening server and cloud infrastructure beyond just the developer stack
 
 ### Legacy System Refactoring
@@ -198,13 +198,13 @@ working at in the past ten years.
 
 The company is building video streaming platforms with storage in the scale of
 several petabytes. I joined as an advisor to the founder and an coach and
-mentor tho the product team. Throughout the year I helped the entire company yo
-create an individual agile process based on Kanban and Scrum. We ware able to
+mentor to the product team. Throughout the year I helped the entire company to
+create an individual agile process based on Kanban and Scrum. We were able to
 remove many obstacles and create transparency of the development and planning
 efforts.
 
 Additionally to this, I am working with the developers to establish test
-automation and CI/CD uwing gitlab as a foundation to refactor the existing
+automation and CI/CD (based on gitlab) as a foundation to refactor the existing
 monolithic applications into maintainable services.
 
 Tags: **Coaching, Advisory, Software Architecture, Agile Methods**  
@@ -215,7 +215,7 @@ Technologies: **PHP, Yii, JavaScript, Redis, MySQL, Docker, Gitlab CI**
 I joined a small delivery team that build web applications and desktop
 applications for very different domains (e.g. Legal, POS Terminals, CRM
 Software, ...). I continuously paired with different members of the team to
-address a many different aspects of building high quality software. We focused
+address many different aspects of building high quality software. We focused
 a lot on TDD and CI/CD Pipelines. But also general aspects of software
 architecture and refactoring skills played a major role throughout the
 engagement.
@@ -259,8 +259,9 @@ Technologies: **Java, Python, Ruby, Ansible, Terraform, Kubernetes**
 Early 2019 my wife and I bootstrapped a company (Holderbaum GmbH) in order to
 carry out tech conferences in Cologne. Since this date we pushed to make the
 first Think About! Conference ([https://think-about.io/](https://think-about/))
-happen on May 2019 in Cologne. It was a great success and we are looking
-forward to the next conference in 2020.
+happen on May 2019 in Cologne. It was a great success and we nearly finished
+planning for the second iteration in 2020. But on March 2020 we had to cancel
+due to Corona.
 
 \begin{figure}[H]
 \centering
