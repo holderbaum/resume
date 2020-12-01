@@ -400,8 +400,8 @@ Technologies: **Ruby, Ruby on Rails, JavaScript, Backbone, Java**
 ### Address:
 
 Holderbaum GmbH  
-Holbeinstr. 39  
-50226 Frechen
+Kurfürstenstr. 38
+54295 Trier
 
 ### Contact Details:
 
